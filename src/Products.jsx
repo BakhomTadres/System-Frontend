@@ -24,7 +24,7 @@ export default function Products() {
   const fetchProducts = useCallback(() => {
     setLoading(true);
     axios
-      .get("system-backend-makarios.vercel.app/api/products", {
+      .get("https://system-backend-makarios.vercel.app/api/products", {
         headers: {
           Authorization: `Bearer ${localStorage.getItem("token")}`,
         },
