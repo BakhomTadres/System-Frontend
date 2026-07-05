@@ -4,12 +4,12 @@ import viteLogo from "./assets/vite.svg";
 import heroImg from "./assets/hero.png";
 import "./index.css";
 import {Routes, Route} from "react-router-dom";
-import Products from "./products";
-import Cashier from "./Cashier";
-import Invoices from "./Invoices";
-import Dashboard from "./Dashboard";
-import Login from "./Login";
-import PrivateRoute from "./PrivateRoute";
+import Products from "./Products.jsx";
+import Cashier from "./Cashier.jsx";
+import Invoices from "./Invoices.jsx";
+import Dashboard from "./Dashboard.jsx";
+import Login from "./Login.jsx";
+import PrivateRoute from "./PrivateRoute.jsx";
 
 function App() {
   return (<>
