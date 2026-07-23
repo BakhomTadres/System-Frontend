@@ -104,7 +104,7 @@ export default function Cashier() {
       }));
 
       const res = await axios.post(
-        "https://system-backend-makarios.vercel.app/api/sales",
+        "https://system-backend-makarios.vercel.app2/api/sales",
         {
           cart: saleData,
         },
