@@ -42,7 +42,7 @@ export default function SideBar() {
           </div>
           <div className="min-w-0">
             <h2 className="font-display text-base md:text-lg font-extrabold text-white leading-tight">
-              الهندسية لقطع غيار السيارات
+             سوبر ماركت المحبة
             </h2>
             <p className="text-gray-500 text-xs md:text-sm font-medium mt-0.5">
               القائمة الجانبية

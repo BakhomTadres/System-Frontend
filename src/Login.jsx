@@ -45,7 +45,7 @@ export default function Login() {
           </div>
 
           <h1 className="font-display text-3xl font-extrabold text-center text-[#1F2933] mb-1.5">
-            الهندسية لقطع غيار السيارات
+            سوبر ماركت المحبة
           </h1>
 
           <p className="text-center text-gray-500 mb-8 text-sm">

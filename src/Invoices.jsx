@@ -136,7 +136,7 @@ export default function Invoices() {
             className="bg-white w-[400px] rounded-2xl shadow-2xl p-6 pb-8 font-body"
           >
             <h2 className="text-center font-display text-2xl font-bold text-[#1F2933]">
-              الهندسية لقطع غيار السيارات
+           سوبر ماركت المحبة
             </h2>
 
             <p className="text-center text-gray-500 text-sm mt-1">
