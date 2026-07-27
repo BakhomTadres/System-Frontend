@@ -594,7 +594,7 @@ const handleDeleteProduct = async () => {
                 قيمة المخزون التقديرية
               </p>
               <p className="font-display text-2xl font-extrabold text-[#146C5E] mt-1">
-                {stats.totalValue.toLocaleString("ar-EG")} ج.م
+                {stats.totalValue} ج.م
               </p>
             </div>
           </div>
